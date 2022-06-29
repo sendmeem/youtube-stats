@@ -1,4 +1,4 @@
-## Instructions to run
+#### Instructions to run
 1. Clone repository
 2. Run npm install to install node modules
 3. Add your API key in the .env file (replace YOURAPIKEY with your real API Key). Instructions to obtain API key found [here](https://www.slickremix.com/docs/get-api-key-for-youtube/)
